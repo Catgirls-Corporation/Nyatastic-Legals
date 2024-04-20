@@ -1,7 +1,7 @@
 # Privacy Policy
 ##### Last updated: 16/04/2024
 
-Jhhspace Inc. ("us", "we", or "our") operates Nyatastic (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.
+Jhhspace Inc. ("us", "we", or "our") or Catgirls Corporation ("us", "we", or "our") operates Nyatastic (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -15,7 +15,9 @@ We only collect Discord User IDs and the command usage for leaderboard. We do no
 ## Log Data
 We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
-We log every suggestions you sent via our Service, or by our support server. Please note that we reserve the rights to blacklist you from using our Service if we find anything that is deemed rule breaking, or violating [Discord's TOS](https://discord.com/terms) and [Privacy Policy](https://discord.com/privacy).
+Jhhspace Inc. or Catgirls Corporation will __<b>NOT</b>__ share or sell your data to Data Brokers. We hate Data Brokers as much as you do.
+
+We log every suggestions you sent via our Service, or by our support server. Please note that we reserve the rights to blacklist you from using our Service if we find anything that is deemed rule breaking under our discretion, or violating [Discord's TOS](https://discord.com/terms) and [Privacy Policy](https://discord.com/privacy).
 
 ## Cookies
 Cookies are files with a small amount of data that is commonly used as an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer's hard drive.
