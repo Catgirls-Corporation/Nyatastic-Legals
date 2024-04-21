@@ -1,5 +1,5 @@
 # Terms of Service ("Terms")
-##### Last updated: 16/04/2024
+##### Last updated: 21/04/2024
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using Nyatastic (the "Service") operated by Jhhspace Inc ("us", "we", or "our").
 
