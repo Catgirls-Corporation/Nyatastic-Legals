@@ -34,7 +34,10 @@ Refunds are handled on a case-by-case basis. Typically, we do not offer refunds 
 
 Please note that Pay-As-You-Use Services incur charges at the time of purchase or recharge. It is crucial to ensure that all information entered is accurate before completing the transaction. You are encouraged to review your details carefully to avoid any discrepancies.
 
-While we strive to provide the best service possible, refunds may be considered in exceptional circumstances, such as technical errors or service disruptions beyond your control. In such cases, please reach out to our support team for assistance.
+While we strive to provide the best service possible, refunds may be considered in exceptional circumstances, such as technical errors or service disruptions beyond your control. In such cases, please reach out to our support team for assistance. More specific examples of such exceptional circumstances include, but are not limited to:
+- Technical errors preventing access to paid features.
+- Service disruptions caused by server issues or maintenance.
+- Inadvertent overcharges or incorrect billing.
 
 ## APIs
 The APIs we use are available to the public, and you can use our API if you wish at [https://api.nekogirl.net/](https://api.nekogirl.net/).
@@ -50,7 +53,9 @@ We will not be responsible for any third-party actions taken on your account. Pl
 The logo and any pictures related to Nyatastic are strictly copyrighted. Please contact us at `ip@jhh.moe` if you have any inquiry about our bot.
 
 ## Changes
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. It is your responsibility to periodically check our Terms of Service
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. It is your responsibility to periodically check our Terms of Service for any changes. We may notify you of any changes by posting the new Terms of Service on this page or via other communication methods.
+
+It is also your responsibility to periodically check our Terms of Service, as minor updates will NOT be announced.
 
 ## Contact Us
 If you have any questions about these Terms, please contact us at `support@jhh.moe` or on our [support server](https://discord.gg/zUjrHU4hVd)
