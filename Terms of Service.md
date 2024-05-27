@@ -1,7 +1,7 @@
 # Terms of Service ("Terms")
-##### Last updated: 12/05/2024
+##### Last updated: 28/05/2024
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using Nyatastic (the "Service") operated by Jhhspace Inc ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using Nyatastic (the "Service") operated by Catgirls Corporation ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
 
@@ -34,7 +34,7 @@ When you use our Service's Chatbot, you are bound to that your chat logs will be
 5. Attempts to use DAN or LLM Jailbreaking on Nyatastic's Chatbot Service to gain unauthorized access to outside of it's intended purposes.
 ```
 
-Please make sure you follow [Discord's Terms](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) when using the Chatbot, any mishaps that happens to your account when you use the Chatbot will not be under the responsibility of Jhhspace Inc.
+Please make sure you follow [Discord's Terms](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) when using the Chatbot, any mishaps that happens to your account when you use the Chatbot will not be under the responsibility of Catgirls Corporation.
 
 ## Refunds
 Refunds are handled on a case-by-case basis. Typically, we do not offer refunds for Pay-As-You-Use Services. Note that if you have used at least $0.10 of your purchased credits, you are <b>INELIGIBLE</b> for a refund.
@@ -59,7 +59,7 @@ If you want to request a refund, please join our [Support server](https://discor
 The APIs we use are available to the public, and you can use our API if you wish at [https://api.nekogirl.net/](https://api.nekogirl.net/).
 
 ## Third-Party Links and Services
-Our bot may contain links to third-party web sites or services that are not owned or controlled by Jhhspace Inc.
+Our bot may contain links to third-party web sites or services that are not owned or controlled by Catgirls Corporation.
 
 Our domain names are [nekogirl.net](https://nekogirl.net) and [jhhspace.com](https://jhhspace.com/). Some of the domains listed might have subdomains such as api, rdct or go.
 
