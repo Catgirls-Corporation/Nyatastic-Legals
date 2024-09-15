@@ -61,7 +61,7 @@ The APIs we use are available to the public, and you can use our API if you wish
 ## Third-Party Links and Services
 Our bot may contain links to third-party web sites or services that are not owned or controlled by Catgirls Corporation.
 
-Our domain names are [nekogirl.net](https://nekogirl.net) and [jhhspace.com](https://jhhspace.com/). Some of the domains listed might have subdomains such as api, rdct or go.
+Our domain name is [nekogirl.net](https://nekogirl.net). Some of the domains listed might have subdomains such as api, rdct or go.
 
 We will not be responsible for any third-party actions taken on your account. Please contact the respective party for the actions taken on you.
 
