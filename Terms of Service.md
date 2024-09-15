@@ -1,5 +1,5 @@
 # Terms of Service ("Terms")
-##### Last updated: 28/05/2024
+##### Last updated: 15/09/2024
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using Nyatastic (the "Service") operated by Catgirls Corporation ("us", "we", or "our").
 
